@@ -9,6 +9,5 @@ This app is for having fun talk with minions. You can use this translator to con
  - Vanilla JavaScript
  - In this application I have used an API : https://funtranslations.com/api/
 
-// badge with live link
-Lets Talk : https://chatwithminionsjs.netlify.app/
+
 [![live-project-click-me](https://user-images.githubusercontent.com/49307371/210537807-6b3ddd5c-9e2e-47a7-8a56-fab8372fdd23.svg)](https://chatwithminionsjs.netlify.app/)
